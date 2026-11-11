@@ -10,5 +10,6 @@ Before paying, compare the endpoint's HTTP 402 response with the published netwo
 
 - [Public x402 manifest](https://api.hergertsynthora.com/.well-known/x402.json)
 - [Storefront](https://pay.hergertsynthora.com)
+- [Live agent card](https://api.hergertsynthora.com/.well-known/agent-card.json)
 
 The file `openapi/well-known.x402.example.json` is a historical snapshot kept for compatibility. Its resources and payment details may be outdated. Use the public manifest for current discovery.
